@@ -7,3 +7,7 @@
 - **nlp实践技巧**
 
 > http://ruder.io/deep-learning-nlp-best-practices/index.html
+
+- **多任务学习**
+
+> http://ruder.io/multi-task/index.html
