@@ -11,3 +11,7 @@
 - **多任务学习**
 
 > http://ruder.io/multi-task/index.html
+
+- **Non-Zero initial for CNN**
+
+> https://r2rt.com/non-zero-initial-states-for-recurrent-neural-networks.html
