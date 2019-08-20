@@ -31,3 +31,7 @@
 - **transformer 详解**
 
 > http://jalammar.github.io/illustrated-transformer/
+
+- **数据并行 多GPU**
+
+> https://github.com/zergtant/pytorch-handbook/blob/b572c428af9008f36517b799202245bdcf7bc70c/chapter1/5_data_parallel_tutorial.ipynb
