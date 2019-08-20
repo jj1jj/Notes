@@ -27,3 +27,7 @@
 - **good understanding of lstm**
 
 > http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+- transformer 详解
+
+> http://jalammar.github.io/illustrated-transformer/
