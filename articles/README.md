@@ -35,3 +35,19 @@
 - **数据并行 多GPU**
 
 > https://github.com/zergtant/pytorch-handbook/blob/b572c428af9008f36517b799202245bdcf7bc70c/chapter1/5_data_parallel_tutorial.ipynb
+
+- **"Attention is all you need" transformer pytorch实现**
+
+> http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+- **Seq2Seq with attention**
+
+> https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+- **RNN bptt 详解**
+
+> http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
+
+- **Why in pytorch's examples detach hidden in RNN from every batch?**
+
+> https://discuss.pytorch.org/t/solved-why-we-need-to-detach-variable-which-contains-hidden-representation/1426/9
