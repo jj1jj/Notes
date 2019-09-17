@@ -1,5 +1,4 @@
 
-
 - **预处理和数据增强技术**
 
 > https://zhpmatrix.github.io/2019/03/08/preprocess-augmentation-in-nlp/
@@ -40,6 +39,10 @@
 
 > http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
+- **Transformer 模型的 PyTorch 实现**
+
+> https://juejin.im/post/5b9f1af0e51d450e425eb32d#comment
+
 - **Seq2Seq with attention**
 
 > https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
@@ -51,3 +54,72 @@
 - **Why in pytorch's examples detach hidden in RNN from every batch?**
 
 > https://discuss.pytorch.org/t/solved-why-we-need-to-detach-variable-which-contains-hidden-representation/1426/9
+
+- **各种attention**
+
+> https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+- **CRF 深刻理解**
+
+> http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/
+
+- **CRF (数学原理）**
+
+> http://www.cs.columbia.edu/~mcollins/crf.pdf
+
+- **通俗理解（有实例）NER中lstm&crf的算法流程**
+
+> https://zhuanlan.zhihu.com/p/44042528
+
+- **通俗理解（有实例）维特比算法**
+
+> https://www.zhihu.com/question/20136144/answer/239971177
+
+- **pytorch model_summary **
+
+> https://github.com/sksq96/pytorch-summary
+
+- **pytorch trick**
+
+> https://zhuanlan.zhihu.com/p/76459295
+
+- **pytorch 版本更新**
+
+> http://www.ishenping.com/ArtInfo/50913.html
+
+- **文本分类**
+
+> https://www.jiqizhixin.com/articles/2018-10-29-10
+
+- **torchtext 入门**
+
+> http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/
+
+- **torchtext详解**
+
+> https://blog.csdn.net/u012436149/article/details/79310176
+
+- **PCA whitening**
+
+> http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/
+
+- 苏剑林 **attention is all you need **
+
+> https://kexue.fm/archives/4765
+
+- **Gensim-fasttext 上岸教程**
+
+> https://blog.csdn.net/sinat_26917383/article/details/83041424
+
+- **Word2vec Gensim 初级教程**
+
+> https://www.jianshu.com/p/ce630c198762
+
+- **tmux 个人最初配置参考**
+
+> https://zhuanlan.zhihu.com/p/58668651
+
+- **Deep Biaffine Attention Neural Dependency Parsing 导读**
+
+> https://xiaoxiaoaurora.github.io/2019/04/11/Deep-Biaffine-Attention-for-Neural-Dependency-Parsing/
+
