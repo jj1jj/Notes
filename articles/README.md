@@ -121,5 +121,36 @@
 
 - **Deep Biaffine Attention Neural Dependency Parsing 导读**
 
-> https://xiaoxiaoaurora.github.io/2019/04/11/Deep-Biaffine-Attention-for-Neural-Dependency-Parsing/
+> http://www.hankcs.com/nlp/parsing/deep-biaffine-attention-for-neural-dependency-parsing.html
 
+- **vscode 免密登陆最简单的配置**
+
+> https://www.cnblogs.com/dabai56/p/11057127.html
+
+- **bert入门**
+
+> https://evilpsycho.github.io/2019/05/16/Kaggle-Jigsaw-%E6%81%B6%E6%84%8F%E8%AF%84%E8%AE%BA%E8%AF%86%E5%88%AB-bert/#more
+
+- **学习率调整函数 pytorch**
+
+> https://zhuanlan.zhihu.com/p/69411064
+
+- **PyTorch Cookbook（常用代码段整理合集）**
+
+> https://zhuanlan.zhihu.com/p/59205847
+
+- **linux 命令tutorial**
+
+> https://www.runoob.com/linux/linux-tutorial.html
+
+- **ipdb调试**
+
+> https://michael728.github.io/2018/12/15/python-debug-ipdb/
+
+- **word2vec的数学原理 硬核**
+
+> https://www.cnblogs.com/peghoty/p/3857839.html
+
+- **fasttext c++源码剖析 硬核**
+
+> https://heleifz.github.io/14732610572844.html
